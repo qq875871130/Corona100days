@@ -1,0 +1,5 @@
+﻿Z:\scenes\Turbosquid\toasts02\t$m$p$$$\toasts02.max
+Z:\scenes\Turbosquid\toasts02\t$m$p$$$\MAXFILES.TXT
+Z:\scenes\Turbosquid\toasts02\toasts02_diffuse.png
+Z:\scenes\Turbosquid\toasts02\toasts02_normals.png
+Z:\scenes\Turbosquid\toasts02\toasts02_displacement.png
