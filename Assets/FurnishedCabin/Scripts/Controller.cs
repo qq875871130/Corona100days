@@ -14,9 +14,9 @@ public class Controller : MonoBehaviour
     //游戏开始在床上视角
     void Start()
     {
-        Cursor.visible = false;
-        FpsControl.GetComponent<fps>().enabled = false;
-        StartCoroutine(StartGame());
+        //Cursor.visible = false;
+        //FpsControl.GetComponent<fps>().enabled = false;
+        //StartCoroutine(StartGame());
     }
 
     void Update()
