@@ -1,5 +1,5 @@
 <div align= "center">
-<img align="center" width=200 src="https://github.com/qq875871130/Corona100days/blob/develop-VR/Assets/startpics/logo1%20(2).png" />
+<img align="center" width=200 src="./Assets/startpics/logo1%20(2).png" />
 </div>
 <div align= "center">
  <h1>疫情100天-VR</h1>
@@ -43,13 +43,13 @@
 ### 疫情与居家隔离
 ![avatar4][img-skybox]
 
-[icon]:https://github.com/qq875871130/Corona100days/blob/develop-VR/Assets/startpics/logo1%20(2).png
-[img-title]:https://github.com/qq875871130/Corona100days/blob/main/showcase/unity.png
-[img-main]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E4%B8%BB%E8%8F%9C%E5%8D%95.png
-[img-bath]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E6%B4%97%E6%BE%A1.png
-[img-dinner]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E5%90%83%E9%A5%AD.png
-[img-exercise]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E8%BF%90%E5%8A%A8.png
-[img-course]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E7%BD%91%E8%AF%BE.png
-[img-selection]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E9%80%89%E6%8B%A9.png
-[img-event]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B62.png
-[img-skybox]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E5%A4%A9%E7%A9%BA%E7%9B%92.png
+[icon]:./Assets/startpics/logo1%20(2).png
+[img-title]:./showcase/unity.png
+[img-main]:./showcase/%E4%B8%BB%E8%8F%9C%E5%8D%95.png
+[img-bath]:./showcase/%E6%B4%97%E6%BE%A1.png
+[img-dinner]:./showcase/%E5%90%83%E9%A5%AD.png
+[img-exercise]:./showcase/%E8%BF%90%E5%8A%A8.png
+[img-course]:./showcase/%E7%BD%91%E8%AF%BE.png
+[img-selection]:./showcase/%E9%80%89%E6%8B%A9.png
+[img-event]:./showcase/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B62.png
+[img-skybox]:./showcase/%E5%A4%A9%E7%A9%BA%E7%9B%92.png
