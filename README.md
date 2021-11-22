@@ -1,4 +1,10 @@
-# 基于Unity3D游戏作品COVID100Days--疫情100天
+<div align= "center">
+<img align="center" width=200 src="https://github.com/qq875871130/Corona100days/blob/develop-VR/Assets/startpics/logo1%20(2).png" />
+</div>
+<div align= "center">
+ <h1>疫情100天</h1>
+ 基于Unity3D游戏作品COVID100Days
+ </div>
 
 ![title][img-title]
 #### 本作品是一款以疫情宅家为背景的生存游戏，当你作为玩家一个人在家隔离，是选择躺着度过每一天，还是借此机会在家锻炼学习充实自己？
@@ -27,7 +33,7 @@
 
 ![avatar4][img-skybox]
 
-
+[icon]:https://github.com/qq875871130/Corona100days/blob/develop-VR/Assets/startpics/logo1%20(2).png
 [img-title]:https://github.com/qq875871130/Corona100days/blob/main/showcase/unity.png
 [img-main]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E4%B8%BB%E8%8F%9C%E5%8D%95.png
 [img-bath]:https://github.com/qq875871130/Corona100days/blob/main/showcase/%E6%B4%97%E6%BE%A1.png
