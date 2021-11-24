@@ -24,7 +24,7 @@ public class VR_playerController : MonoBehaviour
         if (TouchInput.axis.magnitude > 0.1f)
         {
             direction = Player.instance.hmdTransform.TransformDirection(new Vector3(TouchInput.axis.x, 0, TouchInput.axis.y));
-            character.Move(Move_Speed * Time.deltaTime * Vector3.ProjectOnPlane(direction, Vector3.up));
+            character.Move(Move_Speed * Time.deltaTime * Vector3.ProjectOnPlane(direction, Vector3.up) - new Vector3(0,9.81f,0) * Time.deltaTime);
 
         }
     }
