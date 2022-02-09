@@ -2,7 +2,7 @@
 <img align="center" width=200 src="./Assets/startpics/logo1%20(2).png" />
 </div>
 <div align= "center">
- <h1>疫情100天-VR</h1>
+ <h1>疫情100天</h1>
  </div>
 
 ## 简介
